@@ -17,8 +17,8 @@ import Image04 from "@/public/icons/img04.svg";
 import Image05 from "@/public/icons/img05.svg";
 import Image06 from "@/public/icons/img06.svg";
 
-import Image07 from "@/public/icons/img07.svg";
-import Image08 from "@/public/icons/img08.svg";
+import Image07 from "@/public/icons/img07.png";
+import Image08 from "@/public/icons/img08.png";
 
 import Flag01 from "@/public/icons/flag01.svg";
 import Flag02 from "@/public/icons/flag02.svg";
