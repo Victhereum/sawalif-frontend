@@ -17,11 +17,19 @@ const Section02 = () => {
 
       <div className="flex gap-2 md:gap-5 mt-9 md:-mt-16">
         <div className="w-full rounded-[18px] mt-9 md:mt-36 md:rounded-3xl flex-1 overflow-hidden bg-red-400/10 max-w-[153px] md:max-w-none h-[242px] md:h-[632px]">
-          test
+          <Image
+            src={Image07}
+            alt="Happy woman using Sawalif"
+            className="w-full h-full object-cover"
+          />
         </div>
 
         <div className="w-full rounded-[18px] md:rounded-3xl flex-1 overflow-hidden bg-red-400/10 h-[247px] md:h-[713px]">
-          test
+          <Image
+            src={Image08}
+            alt="Happy man using Sawalif"
+            className="w-full h-full object-cover"
+          />
         </div>
       </div>
     </section>
