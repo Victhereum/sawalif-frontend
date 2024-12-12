@@ -30,12 +30,7 @@ const Section04 = () => {
         </div>
 
         <div className="md:h-[600px] h-auto px-5">
-          <Image
-            src={AppIllustration}
-            alt="icon"
-            className="w-full h-full"
-            objectFit="cover"
-          />
+          <Image src={AppIllustration} alt="icon" className="w-full h-full" />
         </div>
       </div>
     </section>
