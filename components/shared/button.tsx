@@ -24,6 +24,7 @@ const Button: React.FC<ButtonProps> = ({
 }) => {
   return (
     <button
+      disabled={loading}
       className="flex items-center justify-center h-11 bg-white rounded-full px-4 py-1 gap-2"
       {...props}
     >

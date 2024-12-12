@@ -10,8 +10,8 @@ const Section02 = () => {
         </h2>
         <p className="text-sm md:text-2xl font-normal text-primary-light max-w-[340px] md:max-w-[554px] leading-[24px] md:leading-[36px]">
           Dive into a world where meeting new people is just a tap away. Whether
-          you're looking to make friends across continents, share stories with
-          strangers, or build lasting connections.
+          you&apos;re looking to make friends across continents, share stories
+          with strangers, or build lasting connections.
         </p>
       </div>
 
