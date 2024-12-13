@@ -11,7 +11,7 @@ const Content = ({ title, desc, content }: ContentProps) => {
     <div>
       <div className="flex flex-col gap-y-5">
         <h2
-          className="text-primary-dark font-normal text-3xl
+          className="text-primary-dark font-normal text-2xl md:text-3xl
         "
         >
           {title}

@@ -10,7 +10,7 @@ const TermsAndConditions = () => {
             Sawalif&apos;s Terms and Conditions of Use
           </h1>
 
-          <p className="font-normal text-sm md:text-base text-neutral-gray200">
+          <p className="font-normal text-base text-neutral-gray200">
             If you live outside the United States, these Terms and Conditions
             apply to you. If you live in the United States, the Badoo Terms and
             Conditions available here(opens in new window) apply to you.
