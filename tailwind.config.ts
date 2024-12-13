@@ -20,6 +20,7 @@ export default {
         neutral: {
           gray: "#191919",
           gray100: "#333333",
+          gray200: "#667085",
         },
       },
       animation: {

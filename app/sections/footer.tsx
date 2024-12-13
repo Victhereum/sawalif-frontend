@@ -13,9 +13,9 @@ const Footer = () => {
         <Image src={LogoLight} alt="Sawalif" />
 
         <div className="flex flex-col md:flex-row md:items-center gap-y-4 md:gap-x-10">
-          <FooterLink txt="Terms & Conditions" link="" />
-          <FooterLink txt="Help" link="" />
-          <FooterLink txt="Privacy" link="" />
+          <FooterLink txt="Terms & Conditions" link="/terms-and-conditions" />
+          <FooterLink txt="Help" link="/help" />
+          <FooterLink txt="Privacy" link="/privacy" />
         </div>
 
         <div className="flex items-center gap-x-6 mt-5 md:mt-0">
